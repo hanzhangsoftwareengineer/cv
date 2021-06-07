@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+#main {
+    margin: 0 5% 0 5%;
+}
+
+#content {
+    line-height: 1em;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+h2  {
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+#lists {
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+
+li {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
